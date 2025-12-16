@@ -15,7 +15,7 @@
 // 
 // Revision:
 // Revision 0.01 - File Created
-// Additional Comments: cardinal direction decoder
+// Additional Comments: binary rotary encoder and cardinal direction decoder
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
